@@ -51,5 +51,5 @@ This project is open-source and available under the **MIT License**.
 
 ***
 
-💻 Developed with ❤️ by Bhomesh
+💻 Developed with ❤️ by <a href="https://github.com/bhomesh">Bhomesh</a>
 
